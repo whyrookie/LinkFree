@@ -1,0 +1,12 @@
+{
+  "name": "John W",
+  "type": "personal",
+  "bio": "An Android and web developer",
+  "links": [
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/whyrookie",
+      "icon": "FaGithub"
+    }
+  ]
+}
